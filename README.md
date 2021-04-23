@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Richard-WQW
 - 👀 I’m interested in vehicle dynamics and advanced nonlinear control
-- 🌱 I’m currently learning electric vehicle
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning distributed electric vehicle
+
 
 <!---
 Richard-WQW/Richard-WQW is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
